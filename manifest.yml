@@ -116,10 +116,14 @@ instance_groups:
   azs: [z1]
   persistent_disk_type: default
   instances: 1
+  vm_extensions:
+  - atc
   networks:
   - name: ((web_network_name))
     default: [dns, gateway]
     static_ips: [*influxdb_ip]
+  - name: vip
+    static_ips: [((atc_eip))]
   stemcell: xenial
   vm_type: ((web_vm_type))
   jobs:
