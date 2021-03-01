@@ -21,9 +21,9 @@
     "version": "84"
   },
   "stemcell": {
-    "url": "https://bosh-aws-light-stemcells.s3-accelerate.amazonaws.com/621.107/light-bosh-stemcell-621.107-aws-xen-hvm-ubuntu-xenial-go_agent.tgz",
-    "sha1": "51792d6b9e0d86a9fe15749f60233753b0c77794",
-    "version": "621.107"
+    "url": "https://bosh-aws-light-stemcells.s3-accelerate.amazonaws.com/621.108/light-bosh-stemcell-621.108-aws-xen-hvm-ubuntu-xenial-go_agent.tgz",
+    "sha1": "849a09680291bcaf896f4b2b28303b8f07a82c40",
+    "version": "621.108"
   },
   "terraform": {
     "windows": "https://releases.hashicorp.com/terraform/0.11.11/terraform_0.11.11_windows_amd64.zip",
