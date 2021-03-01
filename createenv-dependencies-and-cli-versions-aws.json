@@ -11,8 +11,8 @@
     "version": "5.0.1"
   },
   "bpm": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.1.9-ubuntu-xenial-621.107-20210223-012836-902567909-20210223012838.tgz",
-    "sha1": "a0e03ed5fda8237cae775c9c7fb72d27087bd2c5",
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.1.9-ubuntu-xenial-621.108-20210301-185306-723317238-20210301185308.tgz",
+    "sha1": "9e750046bf3620968ffcda684cc3e7fbb2ca322a",
     "version": "1.1.9"
   },
   "cpi": {

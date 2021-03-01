@@ -11,8 +11,8 @@
     "version": "5.0.1"
   },
   "bpm": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.1.9-ubuntu-xenial-621.107-20210223-012836-902567909-20210223012838.tgz",
-    "sha1": "a0e03ed5fda8237cae775c9c7fb72d27087bd2c5",
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.1.9-ubuntu-xenial-621.108-20210301-185306-723317238-20210301185308.tgz",
+    "sha1": "9e750046bf3620968ffcda684cc3e7fbb2ca322a",
     "version": "1.1.9"
   },
   "cpi": {
@@ -21,9 +21,9 @@
     "version": "40.0.4"
   },
   "stemcell": {
-    "url": "https://bosh-gce-light-stemcells.s3-accelerate.amazonaws.com/621.107/light-bosh-stemcell-621.107-google-kvm-ubuntu-xenial-go_agent.tgz",
-    "sha1": "f7d7bddd26a98a3d0135cf83cffe48c6723c947f",
-    "version": "621.107"
+    "url": "https://bosh-gce-light-stemcells.s3-accelerate.amazonaws.com/621.108/light-bosh-stemcell-621.108-google-kvm-ubuntu-xenial-go_agent.tgz",
+    "sha1": "56bf5a688ae49d93786719243461efec61c6a412",
+    "version": "621.108"
   },
   "terraform": {
     "windows": "https://releases.hashicorp.com/terraform/0.11.11/terraform_0.11.11_windows_amd64.zip",
