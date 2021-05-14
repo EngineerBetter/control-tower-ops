@@ -103,8 +103,8 @@ releases:
   version: latest
 
 stemcells:
-- alias: xenial
-  os: ubuntu-xenial
+- alias: bionic
+  os: ubuntu-bionic
   version: latest
 
 tags:
@@ -124,7 +124,7 @@ instance_groups:
     static_ips: [*influxdb_ip]
   - name: vip
     static_ips: [((atc_eip))]
-  stemcell: xenial
+  stemcell: bionic
   vm_type: ((web_vm_type))
   jobs:
   - name: bpm
@@ -346,7 +346,7 @@ instance_groups:
   networks:
   - name: ((worker_network_name))
     default: [dns, gateway]
-  stemcell: xenial
+  stemcell: bionic
   vm_type: ((worker_vm_type))
   jobs:
   - name: worker
