@@ -9,8 +9,8 @@
     "path": "/releases/name=concourse",
     "value": {
       "name": "concourse",
-      "version": "7.2.0",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/concourse-7.2.0-ubuntu-bionic-1.1-20210514-194624-554163709.tgz",
+      "version": "7.3.0",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/concourse-7.3.0-ubuntu-bionic-1.1-20210526-102932-999834145.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.1"
@@ -22,8 +22,8 @@
     "path": "/releases/name=bpm",
     "value": {
       "name": "bpm",
-      "version": "1.1.9",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/bpm-1.1.9-ubuntu-bionic-1.1-20210514-194939-340301517.tgz",
+      "version": "1.1.10",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/bpm-1.1.10-ubuntu-bionic-1.1-20210526-103159-469674464.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.1"
@@ -36,7 +36,7 @@
     "value": {
       "name": "grafana",
       "version": "13.3.0",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/grafana-13.3.0-ubuntu-bionic-1.1-20210514-195000-584657305.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/grafana-13.3.0-ubuntu-bionic-1.1-20210526-103227-84756343.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.1"
@@ -49,7 +49,7 @@
     "value": {
       "name": "influxdb",
       "version": "8.0.5",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/influxdb-8.0.5-ubuntu-bionic-1.1-20210514-195043-964490467.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/influxdb-8.0.5-ubuntu-bionic-1.1-20210526-103253-427373641.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.1"
@@ -62,7 +62,7 @@
     "value": {
       "name": "credhub",
       "version": "2.9.0",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/credhub-2.9.0-ubuntu-bionic-1.1-20210514-195111-573146309.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/credhub-2.9.0-ubuntu-bionic-1.1-20210526-103333-893947218.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.1"
@@ -75,7 +75,7 @@
     "value": {
       "name": "uaa",
       "version": "74.31.0",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/uaa-74.31.0-ubuntu-bionic-1.1-20210514-195206-689717842.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/uaa-74.31.0-ubuntu-bionic-1.1-20210526-103425-064677455.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.1"
@@ -88,7 +88,7 @@
     "value": {
       "name": "bosh-dns",
       "version": "1.29.0",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/bosh-dns-1.29.0-ubuntu-bionic-1.1-20210514-195507-102516727.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/bosh-dns-1.29.0-ubuntu-bionic-1.1-20210526-103506-498978126.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.1"
@@ -101,7 +101,7 @@
     "value": {
       "name": "telegraf",
       "version": "4",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/telegraf-4-ubuntu-bionic-1.1-20210514-195518-901462685.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/telegraf-4-ubuntu-bionic-1.1-20210526-103519-060119426.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.1"
@@ -114,7 +114,7 @@
     "value": {
       "name": "telegraf-agent",
       "version": "1",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/telegraf-agent-1-ubuntu-bionic-1.1-20210514-195526-363009071.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/telegraf-agent-1-ubuntu-bionic-1.1-20210526-103526-191255482.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.1"
