@@ -11,9 +11,9 @@
     "version": "5.0.1"
   },
   "bpm": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.1.11-ubuntu-bionic-1.1-20210519-223425-798625888-20210519223427.tgz",
-    "sha1": "2376585a2bb5741c9ffc8714d67f0d19123b01cb",
-    "version": "1.1.11"
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.1.12-ubuntu-bionic-1.1-20210602-220942-32220638-20210602220943.tgz",
+    "sha1": "a7c1bf84b76490b4bc4c2e077cea25b95b669363",
+    "version": "1.1.12"
   },
   "cpi": {
     "url": "https://bosh.io/d/github.com/cloudfoundry/bosh-google-cpi-release?v=40.0.4",
