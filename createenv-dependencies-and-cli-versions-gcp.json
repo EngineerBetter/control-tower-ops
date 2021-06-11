@@ -1,18 +1,18 @@
 {
   "bosh": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-271.8.0-ubuntu-bionic-1.1-20210517-195545-923589637-20210517195550.tgz",
-    "sha1": "fa49f6a08dd65fd35ff3473f632f74e7a30ddb81",
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-271.8.0-ubuntu-bionic-1.10-20210610-140155-588950002-20210610140156.tgz",
+    "sha1": "bac81303bba8bcb3eaa6ff3ccd0fce98243c01f1",
     "version": "271.8.0"
   },
   "bosh-cli": {
-    "windows": "https://s3.amazonaws.com/bosh-cli-artifacts/bosh-cli-5.5.1-windows-amd64.exe",
-    "mac": "https://s3.amazonaws.com/bosh-cli-artifacts/bosh-cli-5.5.1-darwin-amd64",
-    "linux": "https://s3.amazonaws.com/bosh-cli-artifacts/bosh-cli-5.5.1-linux-amd64",
+    "windows": "https://s3.amazonaws.com/bosh-cli-artifacts/bosh-cli-5.0.1-windows-amd64.exe",
+    "mac": "https://s3.amazonaws.com/bosh-cli-artifacts/bosh-cli-5.0.1-darwin-amd64",
+    "linux": "https://s3.amazonaws.com/bosh-cli-artifacts/bosh-cli-5.0.1-linux-amd64",
     "version": "5.0.1"
   },
   "bpm": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.1.12-ubuntu-bionic-1.1-20210602-220942-32220638-20210602220943.tgz",
-    "sha1": "a7c1bf84b76490b4bc4c2e077cea25b95b669363",
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.1.12-ubuntu-bionic-1.10-20210610-135915-228230683-20210610135916.tgz",
+    "sha1": "b3d266813d64960daaff4e4edb6536045638cb8d",
     "version": "1.1.12"
   },
   "cpi": {
@@ -21,9 +21,9 @@
     "version": "40.0.4"
   },
   "stemcell": {
-    "url": "https://bosh-gce-light-stemcells.s3-accelerate.amazonaws.com/1.1/light-bosh-stemcell-1.1-google-kvm-ubuntu-bionic-go_agent.tgz",
-    "sha1": "cab6549988dc87613de3631001c3c754274f4523",
-    "version": "1.1"
+    "url": "https://storage.googleapis.com/bosh-gce-light-stemcells/1.10/light-bosh-stemcell-1.10-google-kvm-ubuntu-bionic-go_agent.tgz",
+    "sha1": "9594dc9ea69b7b76e4f879a859f1136e946d70ab",
+    "version": "1.10"
   },
   "terraform": {
     "windows": "https://releases.hashicorp.com/terraform/0.11.11/terraform_0.11.11_windows_amd64.zip",
