@@ -1,7 +1,7 @@
 {
   "bosh": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-271.9.0-ubuntu-bionic-1.15-20210720-084442-461895726-20210720084443.tgz",
-    "sha1": "d12d4ddd8a478876c5d901a76c090d0df326b1df",
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-271.9.0-ubuntu-bionic-1.20-20210722-094137-377575179-20210722094138.tgz",
+    "sha1": "5b20e613a7c306561565a2b50d86b4b2f63e4858",
     "version": "271.9.0"
   },
   "bosh-cli": {
@@ -11,8 +11,8 @@
     "version": "5.5.1"
   },
   "bpm": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.1.13-ubuntu-bionic-1.15-20210720-083916-246513446-20210720083917.tgz",
-    "sha1": "a81a326c6920c3da2bea15ed10f0ba31c965d8f3",
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.1.13-ubuntu-bionic-1.20-20210722-093720-819841527-20210722093722.tgz",
+    "sha1": "ac3dc694f275f54b347bfba7ae1394cb25c63efa",
     "version": "1.1.13"
   },
   "cpi": {
@@ -21,9 +21,9 @@
     "version": "40.0.4"
   },
   "stemcell": {
-    "url": "https://storage.googleapis.com/bosh-gce-light-stemcells/1.15/light-bosh-stemcell-1.15-google-kvm-ubuntu-bionic-go_agent.tgz",
-    "sha1": "eec045837804c8801986688c57fd5fbc01f3a1bd",
-    "version": "1.15"
+    "url": "https://storage.googleapis.com/bosh-gce-light-stemcells/1.20/light-bosh-stemcell-1.20-google-kvm-ubuntu-bionic-go_agent.tgz",
+    "sha1": "41054f6dde39599c8eae08f5d43202c55de9428a",
+    "version": "1.20"
   },
   "terraform": {
     "windows": "https://releases.hashicorp.com/terraform/0.11.11/terraform_0.11.11_windows_amd64.zip",
