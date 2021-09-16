@@ -136,7 +136,6 @@ instance_groups:
       allow_self_signed_certificates: true
       add_local_users: ['admin:((atc_password))']
       enable_global_resources: ((enable_global_resources))
-      enable_pipeline_instances: ((enable_pipeline_instances))
       main_team:
         auth:
           local:
