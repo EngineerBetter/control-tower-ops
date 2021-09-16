@@ -2,7 +2,7 @@
   {
     "type": "replace",
     "path": "/stemcells/alias=bionic/version",
-    "value": "1.22"
+    "value": "1.28"
   },
   {
     "type": "replace",
@@ -10,10 +10,10 @@
     "value": {
       "name": "concourse",
       "version": "7.4.0",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/concourse-7.4.0-ubuntu-bionic-1.22-20210804-091056-543273017.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/concourse-7.4.0-ubuntu-bionic-1.28-20210916-154715-055847135.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
-        "version": "1.22"
+        "version": "1.28"
       }
     }
   },
@@ -23,10 +23,10 @@
     "value": {
       "name": "bpm",
       "version": "1.1.13",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/bpm-1.1.13-ubuntu-bionic-1.22-20210804-091437-617402256.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/bpm-1.1.13-ubuntu-bionic-1.28-20210916-155104-041441884.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
-        "version": "1.22"
+        "version": "1.28"
       }
     }
   },
@@ -36,10 +36,10 @@
     "value": {
       "name": "grafana",
       "version": "13.3.0",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/grafana-13.3.0-ubuntu-bionic-1.22-20210804-091446-681418124.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/grafana-13.3.0-ubuntu-bionic-1.28-20210916-155112-841576242.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
-        "version": "1.22"
+        "version": "1.28"
       }
     }
   },
@@ -49,10 +49,10 @@
     "value": {
       "name": "influxdb",
       "version": "8.0.5",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/influxdb-8.0.5-ubuntu-bionic-1.22-20210804-091456-395822114.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/influxdb-8.0.5-ubuntu-bionic-1.28-20210916-155125-186230479.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
-        "version": "1.22"
+        "version": "1.28"
       }
     }
   },
@@ -62,10 +62,10 @@
     "value": {
       "name": "credhub",
       "version": "2.9.0",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/credhub-2.9.0-ubuntu-bionic-1.22-20210804-091508-342611988.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/credhub-2.9.0-ubuntu-bionic-1.28-20210916-155135-581250508.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
-        "version": "1.22"
+        "version": "1.28"
       }
     }
   },
@@ -75,10 +75,10 @@
     "value": {
       "name": "uaa",
       "version": "74.31.0",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/uaa-74.31.0-ubuntu-bionic-1.22-20210804-091532-695218557.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/uaa-74.31.0-ubuntu-bionic-1.28-20210916-155200-883775285.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
-        "version": "1.22"
+        "version": "1.28"
       }
     }
   },
@@ -88,10 +88,10 @@
     "value": {
       "name": "bosh-dns",
       "version": "1.29.0",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/bosh-dns-1.29.0-ubuntu-bionic-1.22-20210804-091853-462866374.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/bosh-dns-1.29.0-ubuntu-bionic-1.28-20210916-155533-864462367.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
-        "version": "1.22"
+        "version": "1.28"
       }
     }
   },
@@ -101,10 +101,10 @@
     "value": {
       "name": "telegraf",
       "version": "5",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/telegraf-5-ubuntu-bionic-1.22-20210804-091858-11370971.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/telegraf-5-ubuntu-bionic-1.28-20210916-155538-203717155.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
-        "version": "1.22"
+        "version": "1.28"
       }
     }
   },
@@ -114,10 +114,10 @@
     "value": {
       "name": "telegraf-agent",
       "version": "2",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/telegraf-agent-2-ubuntu-bionic-1.22-20210804-091901-802798801.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/telegraf-agent-2-ubuntu-bionic-1.28-20210916-155540-666227023.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
-        "version": "1.22"
+        "version": "1.28"
       }
     }
   }
