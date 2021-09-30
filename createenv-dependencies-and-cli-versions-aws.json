@@ -1,8 +1,8 @@
 {
   "bosh": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-271.10.0-ubuntu-bionic-1.31-20210927-083901-690993041-20210927083903.tgz",
-    "sha1": "dd6d70fa5704140898e3f203416b79a98347a1d7",
-    "version": "271.10.0"
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-271.11.0-ubuntu-bionic-1.31-20210929-232306-99344093-20210929232308.tgz",
+    "sha1": "3a855649455a895b02e20d58c1fc6fcd0dfe00d4",
+    "version": "271.11.0"
   },
   "bosh-cli": {
     "windows": "https://s3.amazonaws.com/bosh-cli-artifacts/bosh-cli-5.5.1-windows-amd64.exe",
