@@ -137,7 +137,6 @@ instance_groups:
       add_local_users: ['admin:((atc_password))']
       enable_global_resources: ((enable_global_resources))
       enable_pipeline_instances: ((enable_pipeline_instances))
-      influx_db_retention_period: ((influx_db_retention_period))
       main_team:
         auth:
           local:
@@ -183,6 +182,7 @@ instance_groups:
         database: concourse
         password: ((influxdb_password))
         user: admin
+        retention: ((influx_db_retention_period))
         data:
           index_version: tsi1
   - <<: *telegraf_job
