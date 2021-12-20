@@ -16,9 +16,9 @@
     "version": "1.1.15"
   },
   "cpi": {
-    "url": "https://bosh.io/d/github.com/cloudfoundry/bosh-aws-cpi-release?v=91",
-    "sha1": "c8fdf45dd3baa0c85f5f64b472b55b2ff3432cb4",
-    "version": "91"
+    "url": "https://bosh.io/d/github.com/cloudfoundry/bosh-aws-cpi-release?v=92",
+    "sha1": "fac7be74af71323f81ab99684fde0e142a32e745",
+    "version": "92"
   },
   "stemcell": {
     "url": "https://storage.googleapis.com/bosh-aws-light-stemcells/1.41/light-bosh-stemcell-1.41-aws-xen-hvm-ubuntu-bionic-go_agent.tgz",
