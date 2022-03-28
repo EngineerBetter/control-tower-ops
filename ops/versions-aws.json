@@ -9,8 +9,8 @@
     "path": "/releases/name=concourse",
     "value": {
       "name": "concourse",
-      "version": "7.7.0",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/concourse-7.7.0-ubuntu-bionic-1.71-20220324-000005-901583746.tgz",
+      "version": "7.7.1",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/concourse-7.7.1-ubuntu-bionic-1.71-20220328-145119-626600712.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.71"
@@ -23,7 +23,7 @@
     "value": {
       "name": "bpm",
       "version": "1.1.16",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/bpm-1.1.16-ubuntu-bionic-1.71-20220324-000045-30556182.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/bpm-1.1.16-ubuntu-bionic-1.71-20220328-145157-667648694.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.71"
@@ -36,7 +36,7 @@
     "value": {
       "name": "grafana",
       "version": "0.0.30",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/grafana-0.0.30-ubuntu-bionic-1.71-20220324-000054-973210554.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/grafana-0.0.30-ubuntu-bionic-1.71-20220328-145207-961364304.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.71"
@@ -49,7 +49,7 @@
     "value": {
       "name": "influxdb",
       "version": "8.0.14",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/influxdb-8.0.14-ubuntu-bionic-1.71-20220324-000108-284739342.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/influxdb-8.0.14-ubuntu-bionic-1.71-20220328-145219-625128485.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.71"
@@ -62,7 +62,7 @@
     "value": {
       "name": "credhub",
       "version": "2.12.1",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/credhub-2.12.1-ubuntu-bionic-1.71-20220324-000120-32704537.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/credhub-2.12.1-ubuntu-bionic-1.71-20220328-145230-893142447.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.71"
@@ -75,7 +75,7 @@
     "value": {
       "name": "uaa",
       "version": "75.16.0",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/uaa-75.16.0-ubuntu-bionic-1.71-20220324-000147-097771104.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/uaa-75.16.0-ubuntu-bionic-1.71-20220328-145253-856355796.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.71"
@@ -88,7 +88,7 @@
     "value": {
       "name": "bosh-dns",
       "version": "1.31.0",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/bosh-dns-1.31.0-ubuntu-bionic-1.71-20220324-000202-934534413.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/bosh-dns-1.31.0-ubuntu-bionic-1.71-20220328-145309-664814929.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.71"
@@ -101,7 +101,7 @@
     "value": {
       "name": "telegraf",
       "version": "5",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/telegraf-5-ubuntu-bionic-1.71-20220324-000207-958307711.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/telegraf-5-ubuntu-bionic-1.71-20220328-145316-585532734.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.71"
@@ -114,7 +114,7 @@
     "value": {
       "name": "telegraf-agent",
       "version": "2",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/telegraf-agent-2-ubuntu-bionic-1.71-20220324-000210-959665712.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/telegraf-agent-2-ubuntu-bionic-1.71-20220328-145319-528827525.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.71"
