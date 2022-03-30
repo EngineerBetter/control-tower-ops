@@ -10,7 +10,7 @@
     "value": {
       "name": "concourse",
       "version": "7.7.1",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/concourse-7.7.1-ubuntu-bionic-1.71-20220329-132445-113335846.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/concourse-7.7.1-ubuntu-bionic-1.71-20220330-220613-345034102.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.71"
@@ -23,7 +23,7 @@
     "value": {
       "name": "bpm",
       "version": "1.1.16",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/bpm-1.1.16-ubuntu-bionic-1.71-20220329-132623-144387463.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/bpm-1.1.16-ubuntu-bionic-1.71-20220330-220752-185511489.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.71"
@@ -36,7 +36,7 @@
     "value": {
       "name": "grafana",
       "version": "0.0.30",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/grafana-0.0.30-ubuntu-bionic-1.71-20220329-132657-481087422.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/grafana-0.0.30-ubuntu-bionic-1.71-20220330-220818-163813331.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.71"
@@ -49,7 +49,7 @@
     "value": {
       "name": "influxdb",
       "version": "8.0.14",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/influxdb-8.0.14-ubuntu-bionic-1.71-20220329-132739-411106931.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/influxdb-8.0.14-ubuntu-bionic-1.71-20220330-220844-927401961.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.71"
@@ -61,8 +61,8 @@
     "path": "/releases/name=credhub",
     "value": {
       "name": "credhub",
-      "version": "2.12.1",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/credhub-2.12.1-ubuntu-bionic-1.71-20220329-132806-462952031.tgz",
+      "version": "2.12.2",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/credhub-2.12.2-ubuntu-bionic-1.71-20220330-220912-568875384.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.71"
@@ -75,7 +75,7 @@
     "value": {
       "name": "uaa",
       "version": "75.17.0",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/uaa-75.17.0-ubuntu-bionic-1.71-20220329-132905-380025832.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/uaa-75.17.0-ubuntu-bionic-1.71-20220330-221006-635894582.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.71"
@@ -88,7 +88,7 @@
     "value": {
       "name": "bosh-dns",
       "version": "1.31.0",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/bosh-dns-1.31.0-ubuntu-bionic-1.71-20220329-132945-245686052.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/bosh-dns-1.31.0-ubuntu-bionic-1.71-20220330-221047-302195856.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.71"
@@ -101,7 +101,7 @@
     "value": {
       "name": "telegraf",
       "version": "5",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/telegraf-5-ubuntu-bionic-1.71-20220329-132958-653534145.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/telegraf-5-ubuntu-bionic-1.71-20220330-221059-549319504.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.71"
@@ -114,7 +114,7 @@
     "value": {
       "name": "telegraf-agent",
       "version": "2",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/telegraf-agent-2-ubuntu-bionic-1.71-20220329-133003-519884195.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/telegraf-agent-2-ubuntu-bionic-1.71-20220330-221104-268762423.tgz",
       "stemcell": {
         "os": "ubuntu-bionic",
         "version": "1.71"
