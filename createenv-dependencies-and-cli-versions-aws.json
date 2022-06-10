@@ -1,8 +1,8 @@
 {
   "bosh": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-272.4.0-ubuntu-bionic-1.87-20220602-101437-981185474-20220602101438.tgz",
-    "sha1": "56078a55043443f1ac4e11e8f602c1276cab9959",
-    "version": "272.4.0"
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-272.5.0-ubuntu-bionic-1.88-20220610-094953-081376574-20220610094954.tgz",
+    "sha1": "7257307f69c6ae8b2760c0f7eb11d79f5822cca7",
+    "version": "272.5.0"
   },
   "bosh-cli": {
     "windows": "https://s3.amazonaws.com/bosh-cli-artifacts/bosh-cli-5.5.1-windows-amd64.exe",
@@ -11,8 +11,8 @@
     "version": "5.5.1"
   },
   "bpm": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.1.18-ubuntu-bionic-1.87-20220602-101209-871845144-20220602101211.tgz",
-    "sha1": "c6dbc4b2fb39285bd1f4d93921acd429ef51d947",
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.1.18-ubuntu-bionic-1.88-20220610-094658-40660082-20220610094700.tgz",
+    "sha1": "5aa83d3130a422846a6c00696f506c5ec5f472f9",
     "version": "1.1.18"
   },
   "cpi": {
@@ -21,9 +21,9 @@
     "version": "93"
   },
   "stemcell": {
-    "url": "https://storage.googleapis.com/bosh-aws-light-stemcells/1.87/light-bosh-stemcell-1.87-aws-xen-hvm-ubuntu-bionic-go_agent.tgz",
-    "sha1": "ad0e48a944fdbec271316bb7a6a24dd66fe46e24",
-    "version": "1.87"
+    "url": "https://storage.googleapis.com/bosh-aws-light-stemcells/1.88/light-bosh-stemcell-1.88-aws-xen-hvm-ubuntu-bionic-go_agent.tgz",
+    "sha1": "d47b88c991650d7d2701f9200960b05247145fef",
+    "version": "1.88"
   },
   "terraform": {
     "windows": "https://releases.hashicorp.com/terraform/0.11.11/terraform_0.11.11_windows_amd64.zip",
