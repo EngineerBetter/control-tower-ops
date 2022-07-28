@@ -137,6 +137,7 @@ instance_groups:
       add_local_users: ['admin:((atc_password))']
       enable_global_resources: ((enable_global_resources))
       enable_pipeline_instances: ((enable_pipeline_instances))
+      redact_secrets: true
       main_team:
         auth:
           local:
