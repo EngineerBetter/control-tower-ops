@@ -114,7 +114,7 @@ tags:
 instance_groups:
 - name: web
   azs: [z1]
-  persistent_disk_type: default
+  persistent_disk_type: ((persistent_disk))
   instances: 1
   vm_extensions:
   - atc
