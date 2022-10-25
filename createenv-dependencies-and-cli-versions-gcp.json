@@ -16,9 +16,9 @@
     "version": "1.1.19"
   },
   "cpi": {
-    "url": "https://bosh.io/d/github.com/cloudfoundry/bosh-google-cpi-release?v=44.0.0",
-    "sha1": "2753684cd6dd75d9b0ccf1c4495720015e1207ff",
-    "version": "44.0.0"
+    "url": "https://bosh.io/d/github.com/cloudfoundry/bosh-google-cpi-release?v=45.0.0",
+    "sha1": "5dc7bbb8b74affa73ebad9705d331893f63d987b",
+    "version": "45.0.0"
   },
   "stemcell": {
     "url": "https://storage.googleapis.com/bosh-gce-light-stemcells/1.30/light-bosh-stemcell-1.30-google-kvm-ubuntu-jammy-go_agent.tgz",
