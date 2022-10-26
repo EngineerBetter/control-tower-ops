@@ -1,8 +1,8 @@
 {
   "bosh": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-275.0.0-ubuntu-jammy-1.30-20221021-202637-794214828-20221021202638.tgz",
-    "sha1": "e2ed4187b2cffcd40059679df2fe4797145aa0dd",
-    "version": "275.0.0"
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-273.0.0-ubuntu-jammy-0.3-20220720-152950-800428325-20220720152951.tgz",
+    "sha1": "687462d282d751f915bc176b77884a4a56b2ecf2",
+    "version": "273.0.0"
   },
   "bosh-cli": {
     "windows": "https://s3.amazonaws.com/bosh-cli-artifacts/bosh-cli-5.5.1-windows-amd64.exe",
@@ -11,19 +11,19 @@
     "version": "5.5.1"
   },
   "bpm": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.1.19-ubuntu-jammy-1.30-20221021-202134-878559584-20221021202136.tgz",
-    "sha1": "86ee6586e63daf42c5a653078f74814a0803edf5",
-    "version": "1.1.19"
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.1.18-ubuntu-jammy-0.3-20220720-152413-728541081-20220720152415.tgz",
+    "sha1": "0fa0c22ba21ec26326e16656cbbc20f02894a7ff",
+    "version": "1.1.18"
   },
   "cpi": {
-    "url": "https://bosh.io/d/github.com/cloudfoundry/bosh-google-cpi-release?v=45.0.0",
-    "sha1": "5dc7bbb8b74affa73ebad9705d331893f63d987b",
-    "version": "45.0.0"
+    "url": "https://bosh.io/d/github.com/cloudfoundry/bosh-google-cpi-release?v=43.0.0",
+    "sha1": "adf52ffc2fb832cd24c54f14709c4c0935c071a0",
+    "version": "43.0.0"
   },
   "stemcell": {
-    "url": "https://storage.googleapis.com/bosh-gce-light-stemcells/1.30/light-bosh-stemcell-1.30-google-kvm-ubuntu-jammy-go_agent.tgz",
-    "sha1": "9fa431886f2616cf61630c3a2123ac873c58a600",
-    "version": "1.30"
+    "url": "https://storage.googleapis.com/bosh-gce-light-stemcells/0.2/light-bosh-stemcell-0.2-google-kvm-ubuntu-jammy-go_agent.tgz",
+    "sha1": "8e09494491604c05d92b292abb7219f956cdd5ec",
+    "version": "0.2"
   },
   "terraform": {
     "windows": "https://releases.hashicorp.com/terraform/0.11.11/terraform_0.11.11_windows_amd64.zip",
