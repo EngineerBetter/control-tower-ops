@@ -1,8 +1,8 @@
 {
   "bosh": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-273.0.0-ubuntu-jammy-0.3-20220720-152950-800428325-20220720152951.tgz",
-    "sha1": "687462d282d751f915bc176b77884a4a56b2ecf2",
-    "version": "273.0.0"
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-276.1.0-ubuntu-jammy-1.44-20221102-180706-051413495-20221102180707.tgz",
+    "sha1": "cfe226b7468b36f7dd0d99c14672ad3840b0c5d1",
+    "version": "276.1.0"
   },
   "bosh-cli": {
     "windows": "https://s3.amazonaws.com/bosh-cli-artifacts/bosh-cli-5.5.1-windows-amd64.exe",
@@ -11,19 +11,19 @@
     "version": "5.5.1"
   },
   "bpm": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.1.18-ubuntu-jammy-0.3-20220720-152413-728541081-20220720152415.tgz",
-    "sha1": "0fa0c22ba21ec26326e16656cbbc20f02894a7ff",
-    "version": "1.1.18"
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.1.19-ubuntu-jammy-1.44-20221102-004055-758402386-20221102004057.tgz",
+    "sha1": "8890ecbf43153cff71129446e27639b88dea4bbc",
+    "version": "1.1.19"
   },
   "cpi": {
-    "url": "https://bosh.io/d/github.com/cloudfoundry/bosh-aws-cpi-release?v=93",
-    "sha1": "1b4d0f542faa1b8e6fd5aaae375073ecf7833291",
-    "version": "93"
+    "url": "https://bosh.io/d/github.com/cloudfoundry/bosh-aws-cpi-release?v=95",
+    "sha1": "befd5c4302eb57b28c54c3a2959f7908d0b057f4",
+    "version": "95"
   },
   "stemcell": {
-    "url": "https://storage.googleapis.com/bosh-aws-light-stemcells/0.3/light-bosh-stemcell-0.3-aws-xen-hvm-ubuntu-jammy-go_agent.tgz",
-    "sha1": "5c6d7e61d73accb7c284175214070ad166661202",
-    "version": "0.3"
+    "url": "https://storage.googleapis.com/bosh-aws-light-stemcells/1.44/light-bosh-stemcell-1.44-aws-xen-hvm-ubuntu-jammy-go_agent.tgz",
+    "sha1": "2253e16d7f2c7902f243ad74ed2ebb577698e58a",
+    "version": "1.44"
   },
   "terraform": {
     "windows": "https://releases.hashicorp.com/terraform/0.11.11/terraform_0.11.11_windows_amd64.zip",
