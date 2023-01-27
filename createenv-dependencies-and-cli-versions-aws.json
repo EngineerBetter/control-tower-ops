@@ -1,8 +1,8 @@
 {
   "bosh": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-276.1.0-ubuntu-jammy-1.44-20221102-180706-051413495-20221102180707.tgz",
-    "sha1": "cfe226b7468b36f7dd0d99c14672ad3840b0c5d1",
-    "version": "276.1.0"
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-276.1.1-ubuntu-jammy-1.80-20230120-155605-288388418-20230120155608.tgz",
+    "sha1": "1bc3d48eb6bddac21ee0775dd8f87397c07072cf",
+    "version": "276.1.1"
   },
   "bosh-cli": {
     "windows": "https://s3.amazonaws.com/bosh-cli-artifacts/bosh-cli-5.5.1-windows-amd64.exe",
@@ -11,24 +11,24 @@
     "version": "5.5.1"
   },
   "bpm": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.1.19-ubuntu-jammy-1.44-20221102-004055-758402386-20221102004057.tgz",
-    "sha1": "8890ecbf43153cff71129446e27639b88dea4bbc",
-    "version": "1.1.19"
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.1.21-ubuntu-jammy-1.80-20230120-154558-278943837-20230120154600.tgz",
+    "sha1": "512cbf89a900e593682455d3ebbb0803279247a3",
+    "version": "1.1.21"
   },
   "cpi": {
-    "url": "https://bosh.io/d/github.com/cloudfoundry/bosh-aws-cpi-release?v=95",
-    "sha1": "befd5c4302eb57b28c54c3a2959f7908d0b057f4",
-    "version": "95"
+    "url": "https://bosh.io/d/github.com/cloudfoundry/bosh-aws-cpi-release?v=96",
+    "sha1": "451c4c812d5218849e7f1c790f0f1cd4ff544b1a",
+    "version": "96"
   },
   "stemcell": {
-    "url": "https://storage.googleapis.com/bosh-aws-light-stemcells/1.44/light-bosh-stemcell-1.44-aws-xen-hvm-ubuntu-jammy-go_agent.tgz",
-    "sha1": "2253e16d7f2c7902f243ad74ed2ebb577698e58a",
-    "version": "1.44"
+    "url": "https://storage.googleapis.com/bosh-aws-light-stemcells/1.80/light-bosh-stemcell-1.80-aws-xen-hvm-ubuntu-jammy-go_agent.tgz",
+    "sha1": "516f47bb96ff1600b6887df7cf1abde0ee81b0e8",
+    "version": "1.80"
   },
   "terraform": {
-    "windows": "https://releases.hashicorp.com/terraform/1.3.6/terraform_1.3.6_windows_amd64.zip",
-    "mac": "https://releases.hashicorp.com/terraform/1.3.6/terraform_1.3.6_darwin_amd64.zip",
-    "linux": "https://releases.hashicorp.com/terraform/1.3.6/terraform_1.3.6_linux_amd64.zip",
-    "version": "1.3.6"
+    "windows": "https://releases.hashicorp.com/terraform/0.11.11/terraform_0.11.11_windows_amd64.zip",
+    "mac": "https://releases.hashicorp.com/terraform/0.11.11/terraform_0.11.11_darwin_amd64.zip",
+    "linux": "https://releases.hashicorp.com/terraform/0.11.11/terraform_0.11.11_linux_amd64.zip",
+    "version": "0.11.11"
   }
 }
