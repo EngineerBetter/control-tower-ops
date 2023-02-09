@@ -21,9 +21,9 @@
     "version": "46.0.1"
   },
   "stemcell": {
-    "url": "https://storage.googleapis.com/bosh-gce-light-stemcells/1.80/light-bosh-stemcell-1.80-google-kvm-ubuntu-jammy-go_agent.tgz",
-    "sha1": "84c9ac5fd3ba1b15a15a9cabedb946f6de6c0465",
-    "version": "1.80"
+    "url": "https://storage.googleapis.com/bosh-gce-light-stemcells/1.83/light-bosh-stemcell-1.83-google-kvm-ubuntu-jammy-go_agent.tgz",
+    "sha1": "ea36a5807db58cc21fe92d24aae84dcf6f5872c6",
+    "version": "1.83"
   },
   "terraform": {
     "windows": "https://releases.hashicorp.com/terraform/1.3.6/terraform_1.3.6_windows_amd64.zip",
