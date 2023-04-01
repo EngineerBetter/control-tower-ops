@@ -11,9 +11,9 @@
     "version": "5.5.1"
   },
   "bpm": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.1.21-ubuntu-jammy-1.95-20230322-140812-47792841-20230322140814.tgz",
-    "sha1": "ac4dbe2bd2042c79e8bbffee896f0efca8706e23",
-    "version": "1.1.21"
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.1.23-ubuntu-jammy-1.95-20230401-111332-43113871-20230401111333.tgz",
+    "sha1": "be63d634899394b0ffa6786503223a0ab52d47a9",
+    "version": "1.1.23"
   },
   "cpi": {
     "url": "https://bosh.io/d/github.com/cloudfoundry/bosh-google-cpi-release?v=46.0.2",
