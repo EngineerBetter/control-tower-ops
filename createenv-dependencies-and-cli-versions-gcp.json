@@ -1,7 +1,7 @@
 {
   "bosh": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-277.3.0-ubuntu-jammy-1.102-20230412-194015-3212787-20230412194016.tgz",
-    "sha1": "ff91173490f1593c341b683f5dcc0c4164a3c3d9",
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-277.3.0-ubuntu-jammy-1.108-20230428-025103-540495181-20230428025104.tgz",
+    "sha1": "fa38142814e7fbb14fb9f4fc863e6e15b5c98d41",
     "version": "277.3.0"
   },
   "bosh-cli": {
@@ -11,19 +11,19 @@
     "version": "5.5.1"
   },
   "bpm": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.2.0-ubuntu-jammy-1.102-20230412-193146-777141354-20230412193148.tgz",
-    "sha1": "08a70e05af2ce52fc4a78d9052262fe0e365a657",
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.2.0-ubuntu-jammy-1.108-20230428-024240-669669796-20230428024242.tgz",
+    "sha1": "f24c817abbcf81622f2748bced648d269fe204fe",
     "version": "1.2.0"
   },
   "cpi": {
-    "url": "https://bosh.io/d/github.com/cloudfoundry/bosh-google-cpi-release?v=46.0.2",
-    "sha1": "6ef8e071ee36962d275c63ad87f0acb6a52631b4",
-    "version": "46.0.2"
+    "url": "https://bosh.io/d/github.com/cloudfoundry/bosh-google-cpi-release?v=47.0.0",
+    "sha1": "a6fc8a9b9c1ec728b1ca899d2c7045e8087914f9",
+    "version": "47.0.0"
   },
   "stemcell": {
-    "url": "https://storage.googleapis.com/bosh-gce-light-stemcells/1.105/light-bosh-stemcell-1.105-google-kvm-ubuntu-jammy-go_agent.tgz",
-    "sha1": "2c9d72a83b297b838ed229ee28820c8d2b66c6ea",
-    "version": "1.105"
+    "url": "https://storage.googleapis.com/bosh-gce-light-stemcells/1.108/light-bosh-stemcell-1.108-google-kvm-ubuntu-jammy-go_agent.tgz",
+    "sha1": "0af59f22b1dbfa7f288826414a534f8f583932ab",
+    "version": "1.108"
   },
   "terraform": {
     "windows": "https://releases.hashicorp.com/terraform/1.3.6/terraform_1.3.6_windows_amd64.zip",
