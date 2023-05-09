@@ -1,8 +1,8 @@
 {
   "bosh": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-277.3.0-ubuntu-jammy-1.108-20230428-025103-540495181-20230428025104.tgz",
-    "sha1": "fa38142814e7fbb14fb9f4fc863e6e15b5c98d41",
-    "version": "277.3.0"
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-277.3.1-ubuntu-jammy-1.108-20230503-215806-690745388-20230503215807.tgz",
+    "sha1": "355e8881d836b5886599a6b5c74c28ead4002acd",
+    "version": "277.3.1"
   },
   "bosh-cli": {
     "windows": "https://s3.amazonaws.com/bosh-cli-artifacts/bosh-cli-5.5.1-windows-amd64.exe",
@@ -11,9 +11,9 @@
     "version": "5.5.1"
   },
   "bpm": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.2.0-ubuntu-jammy-1.108-20230428-024240-669669796-20230428024242.tgz",
-    "sha1": "f24c817abbcf81622f2748bced648d269fe204fe",
-    "version": "1.2.0"
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.2.1-ubuntu-jammy-1.108-20230509-213200-506479271-20230509213201.tgz",
+    "sha1": "1659e891efc1b6253e1927e6a76eca88340ba934",
+    "version": "1.2.1"
   },
   "cpi": {
     "url": "https://bosh.io/d/github.com/cloudfoundry/bosh-google-cpi-release?v=47.0.0",
