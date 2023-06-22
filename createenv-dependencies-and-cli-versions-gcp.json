@@ -1,8 +1,8 @@
 {
   "bosh": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-277.3.3-ubuntu-jammy-1.125-20230608-200007-337628622-20230608200008.tgz",
-    "sha1": "a5d7e49e2176ed768255dcbf6c2fa5a407d647a8",
-    "version": "277.3.3"
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-277.3.4-ubuntu-jammy-1.125-20230621-163400-946421549-20230621163402.tgz",
+    "sha1": "5f4d284c583ad9c3b2533cf1622be04f68678b11",
+    "version": "277.3.4"
   },
   "bosh-cli": {
     "windows": "https://s3.amazonaws.com/bosh-cli-artifacts/bosh-cli-5.5.1-windows-amd64.exe",
@@ -16,9 +16,9 @@
     "version": "1.2.2"
   },
   "cpi": {
-    "url": "https://bosh.io/d/github.com/cloudfoundry/bosh-google-cpi-release?v=47.0.0",
-    "sha1": "a6fc8a9b9c1ec728b1ca899d2c7045e8087914f9",
-    "version": "47.0.0"
+    "url": "https://bosh.io/d/github.com/cloudfoundry/bosh-google-cpi-release?v=48.0.0",
+    "sha1": "9756a5127f8c75dedae7ff451dce23d2bd25648a",
+    "version": "48.0.0"
   },
   "stemcell": {
     "url": "https://storage.googleapis.com/bosh-gce-light-stemcells/1.125/light-bosh-stemcell-1.125-google-kvm-ubuntu-jammy-go_agent.tgz",
