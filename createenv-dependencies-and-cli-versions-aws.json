@@ -11,14 +11,14 @@
     "version": "5.5.1"
   },
   "bpm": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.2.2-ubuntu-jammy-1.125-20230602-144024-631923554-20230602144025.tgz",
-    "sha1": "c7086732a37f1c5712d503b6c71a47d62a4d5a56",
-    "version": "1.2.2"
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.2.3-ubuntu-jammy-1.125-20230622-174139-057111081-20230622174140.tgz",
+    "sha1": "3a9e960ea32798626c0c3d3fadb1c99b8ff8e143",
+    "version": "1.2.3"
   },
   "cpi": {
-    "url": "https://bosh.io/d/github.com/cloudfoundry/bosh-aws-cpi-release?v=98",
-    "sha1": "c9e4090a502b8c63d37b24f62ec0a06c5d442107",
-    "version": "98"
+    "url": "https://bosh.io/d/github.com/cloudfoundry/bosh-aws-cpi-release?v=99",
+    "sha1": "ffc4a06d6728d88eb108418f886f46428c2a1bf2",
+    "version": "99"
   },
   "stemcell": {
     "url": "https://storage.googleapis.com/bosh-aws-light-stemcells/1.125/light-bosh-stemcell-1.125-aws-xen-hvm-ubuntu-jammy-go_agent.tgz",
