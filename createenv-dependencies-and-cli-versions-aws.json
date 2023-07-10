@@ -5,10 +5,10 @@
     "version": "277.3.4"
   },
   "bosh-cli": {
-    "windows": "https://s3.amazonaws.com/bosh-cli-artifacts/bosh-cli-5.5.1-windows-amd64.exe",
-    "mac": "https://s3.amazonaws.com/bosh-cli-artifacts/bosh-cli-5.5.1-darwin-amd64",
-    "linux": "https://s3.amazonaws.com/bosh-cli-artifacts/bosh-cli-5.5.1-linux-amd64",
-    "version": "5.5.1"
+    "windows": "https://s3.amazonaws.com/bosh-cli-artifacts/bosh-cli-7.2.0-windows-amd64.exe",
+    "mac": "https://s3.amazonaws.com/bosh-cli-artifacts/bosh-cli-7.2.0-darwin-amd64",
+    "linux": "https://s3.amazonaws.com/bosh-cli-artifacts/bosh-cli-7.2.0-linux-amd64",
+    "version": "7.2.0"
   },
   "bpm": {
     "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.2.3-ubuntu-jammy-1.148-20230630-061605-122144095-20230630061606.tgz",
