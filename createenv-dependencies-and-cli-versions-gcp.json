@@ -1,7 +1,7 @@
 {
   "bosh": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-277.4.2-ubuntu-jammy-1.148-20230719-110832-456225973-20230719110834.tgz",
-    "sha1": "cc8e2b492a3d13d2670a5b2cbe7ce92aad746c0a",
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-277.4.2-ubuntu-jammy-1.179-20230724-193912-367564923-20230724193913.tgz",
+    "sha1": "0ef3ec54369e037071f5760484f7154a89a70202",
     "version": "277.4.2"
   },
   "bosh-cli": {
@@ -11,8 +11,8 @@
     "version": "7.2.0"
   },
   "bpm": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.2.4-ubuntu-jammy-1.148-20230713-191851-106166536-20230713191852.tgz",
-    "sha1": "8c9002d258bfca557bc4e679844e89548221daed",
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.2.4-ubuntu-jammy-1.179-20230724-193434-680427884-20230724193437.tgz",
+    "sha1": "e3460a193808c8ecd9a5500838974414a160b4b5",
     "version": "1.2.4"
   },
   "cpi": {
@@ -21,9 +21,9 @@
     "version": "49.0.0"
   },
   "stemcell": {
-    "url": "https://storage.googleapis.com/bosh-gce-light-stemcells/1.148/light-bosh-stemcell-1.148-google-kvm-ubuntu-jammy-go_agent.tgz",
-    "sha1": "759df2a5f19517b1cff8ae2f9cf824c0ec20fb82",
-    "version": "1.148"
+    "url": "https://storage.googleapis.com/bosh-gce-light-stemcells/1.179/light-bosh-stemcell-1.179-google-kvm-ubuntu-jammy-go_agent.tgz",
+    "sha1": "3aa72b1711aee75875673ef9280dabb8bf185ea0",
+    "version": "1.179"
   },
   "terraform": {
     "windows": "https://releases.hashicorp.com/terraform/1.3.6/terraform_1.3.6_windows_amd64.zip",
