@@ -11,9 +11,9 @@
     "version": "7.2.0"
   },
   "bpm": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.2.5-ubuntu-jammy-1.207-20230825-083628-124134649-20230825083629.tgz",
-    "sha1": "cb0492561ab5119c4cf193979ee030090d7a619e",
-    "version": "1.2.5"
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.2.6-ubuntu-jammy-1.207-20230830-184840-816335823-20230830184841.tgz",
+    "sha1": "41fd00689162fa99fdf2d754f79ad08dc8fa429b",
+    "version": "1.2.6"
   },
   "cpi": {
     "url": "https://bosh.io/d/github.com/cloudfoundry/bosh-aws-cpi-release?v=99",
