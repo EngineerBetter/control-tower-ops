@@ -1,8 +1,8 @@
 {
   "bosh": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-280.0.0-ubuntu-jammy-1.207-20230825-084125-28537307-20230825084126.tgz",
-    "sha1": "4b1d98ce98318cd3a9e093e2f1fcf3b714a41abb",
-    "version": "280.0.0"
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-280.0.1-ubuntu-jammy-1.207-20230907-050519-016101043-20230907050523.tgz",
+    "sha1": "afc73a32faa8e7e9ddcde26f8ac93dbf8b847555",
+    "version": "280.0.1"
   },
   "bosh-cli": {
     "windows": "https://s3.amazonaws.com/bosh-cli-artifacts/bosh-cli-7.2.0-windows-amd64.exe",
