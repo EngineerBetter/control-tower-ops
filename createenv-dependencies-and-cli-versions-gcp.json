@@ -1,8 +1,8 @@
 {
   "bosh": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-280.0.3-ubuntu-jammy-1.232-20230921-031332-046400747-20230921031334.tgz",
-    "sha1": "eacb8644d0fb5fdb2d5fb09bbdc5a24c60630f6a",
-    "version": "280.0.3"
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bosh-277.1.0-ubuntu-jammy-1.83-20230209-003758-868678928-20230209003802.tgz",
+    "sha1": "06b4b8bdf9fc8984f35e9bd2f027878d9c4b0796",
+    "version": "277.1.0"
   },
   "bosh-cli": {
     "windows": "https://s3.amazonaws.com/bosh-cli-artifacts/bosh-cli-7.2.0-windows-amd64.exe",
@@ -11,19 +11,19 @@
     "version": "7.2.0"
   },
   "bpm": {
-    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.2.7-ubuntu-jammy-1.232-20230920-062844-865365708-20230920062845.tgz",
-    "sha1": "77ebdddb5764916eba422bb9e08bcad840a31661",
-    "version": "1.2.7"
+    "url": "https://s3.amazonaws.com/bosh-compiled-release-tarballs/bpm-1.1.21-ubuntu-jammy-1.83-20230209-003704-701831797-20230209003708.tgz",
+    "sha1": "d0fad95129872d632ba336d474f2c85c6ba267c9",
+    "version": "1.1.21"
   },
   "cpi": {
-    "url": "https://bosh.io/d/github.com/cloudfoundry/bosh-google-cpi-release?v=49.0.3",
-    "sha1": "d000fb3944836a36333bb1f6cd5f88b60a6fc85f",
-    "version": "49.0.3"
+    "url": "https://bosh.io/d/github.com/cloudfoundry/bosh-google-cpi-release?v=46.0.1",
+    "sha1": "7048f1dc01c16e1b633d971cea962b6992515e5e",
+    "version": "46.0.1"
   },
   "stemcell": {
-    "url": "https://storage.googleapis.com/bosh-gce-light-stemcells/1.232/light-bosh-stemcell-1.232-google-kvm-ubuntu-jammy-go_agent.tgz",
-    "sha1": "0a2b0552082908b8c1413b71cfc66fe68ff5f000",
-    "version": "1.232"
+    "url": "https://storage.googleapis.com/bosh-gce-light-stemcells/1.83/light-bosh-stemcell-1.83-google-kvm-ubuntu-jammy-go_agent.tgz",
+    "sha1": "ea36a5807db58cc21fe92d24aae84dcf6f5872c6",
+    "version": "1.83"
   },
   "terraform": {
     "windows": "https://releases.hashicorp.com/terraform/1.3.6/terraform_1.3.6_windows_amd64.zip",

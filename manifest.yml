@@ -103,8 +103,8 @@ releases:
   version: latest
 
 stemcells:
-- alias: bionic
-  os: ubuntu-bionic
+- alias: jammy
+  os: ubuntu-jammy
   version: latest
 
 tags:
@@ -124,7 +124,7 @@ instance_groups:
     static_ips: [*influxdb_ip]
   - name: vip
     static_ips: [((atc_eip))]
-  stemcell: bionic
+  stemcell: jammy
   vm_type: ((web_vm_type))
   jobs:
   - name: bpm
@@ -349,7 +349,7 @@ instance_groups:
   networks:
   - name: ((worker_network_name))
     default: [dns, gateway]
-  stemcell: bionic
+  stemcell: jammy
   vm_type: ((worker_vm_type))
   jobs:
   - name: worker
