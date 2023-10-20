@@ -10,7 +10,7 @@
     "value": {
       "name": "concourse",
       "version": "7.8.3",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/bbr-atcdb-web-worker-concourse-7.8.3-ubuntu-jammy-1.260-20231019-103134-039298294.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/bbr-atcdb-web-worker-concourse-7.8.3-ubuntu-jammy-1.260-20231019-233346-380836333.tgz",
       "stemcell": {
         "os": "ubuntu-jammy",
         "version": "1.260"
@@ -23,7 +23,7 @@
     "value": {
       "name": "bpm",
       "version": "1.2.9",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/bpm-1.2.9-ubuntu-jammy-1.260-20231019-103226-693101373.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/bpm-1.2.9-ubuntu-jammy-1.260-20231019-233429-715841187.tgz",
       "stemcell": {
         "os": "ubuntu-jammy",
         "version": "1.260"
@@ -36,7 +36,7 @@
     "value": {
       "name": "grafana",
       "version": "0.0.86",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/grafana-0.0.86-ubuntu-jammy-1.260-20231019-103238-510431428.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/grafana-0.0.86-ubuntu-jammy-1.260-20231019-233440-227090811.tgz",
       "stemcell": {
         "os": "ubuntu-jammy",
         "version": "1.260"
@@ -49,7 +49,7 @@
     "value": {
       "name": "influxdb",
       "version": "8.0.14",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/influxdb-8.0.14-ubuntu-jammy-1.260-20231019-103259-688296507.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/influxdb-8.0.14-ubuntu-jammy-1.260-20231019-233453-301311638.tgz",
       "stemcell": {
         "os": "ubuntu-jammy",
         "version": "1.260"
@@ -61,8 +61,8 @@
     "path": "/releases/name=credhub",
     "value": {
       "name": "credhub",
-      "version": "2.12.48",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/credhub-2.12.48-ubuntu-jammy-1.260-20231019-103325-675928013.tgz",
+      "version": "2.12.49",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/credhub-2.12.49-ubuntu-jammy-1.260-20231019-233507-358572319.tgz",
       "stemcell": {
         "os": "ubuntu-jammy",
         "version": "1.260"
@@ -75,7 +75,7 @@
     "value": {
       "name": "uaa",
       "version": "75.23.0",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/uaa-75.23.0-ubuntu-jammy-1.260-20231019-103357-15403682.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/uaa-75.23.0-ubuntu-jammy-1.260-20231019-233540-573250779.tgz",
       "stemcell": {
         "os": "ubuntu-jammy",
         "version": "1.260"
@@ -88,7 +88,7 @@
     "value": {
       "name": "bosh-dns",
       "version": "1.36.8",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/bosh-dns-1.36.8-ubuntu-jammy-1.260-20231019-103414-472272997.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/bosh-dns-1.36.8-ubuntu-jammy-1.260-20231019-233557-433761884.tgz",
       "stemcell": {
         "os": "ubuntu-jammy",
         "version": "1.260"
@@ -101,7 +101,7 @@
     "value": {
       "name": "telegraf",
       "version": "5",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/telegraf-5-ubuntu-jammy-1.260-20231019-103419-819855815.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/telegraf-5-ubuntu-jammy-1.260-20231019-233603-704606601.tgz",
       "stemcell": {
         "os": "ubuntu-jammy",
         "version": "1.260"
@@ -114,7 +114,7 @@
     "value": {
       "name": "telegraf-agent",
       "version": "2",
-      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/telegraf-agent-2-ubuntu-jammy-1.260-20231019-103422-982694231.tgz",
+      "url": "https://s3.eu-west-1.amazonaws.com/control-tower-compiled-releases/telegraf-agent-2-ubuntu-jammy-1.260-20231019-233606-350740556.tgz",
       "stemcell": {
         "os": "ubuntu-jammy",
         "version": "1.260"
