@@ -10,7 +10,7 @@
     "value": {
       "name": "concourse",
       "version": "7.8.3",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/bbr-atcdb-web-worker-concourse-7.8.3-ubuntu-jammy-1.260-20231019-101850-836889409.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/bbr-atcdb-web-worker-concourse-7.8.3-ubuntu-jammy-1.260-20231019-233629-78827688.tgz",
       "stemcell": {
         "os": "ubuntu-jammy",
         "version": "1.260"
@@ -23,7 +23,7 @@
     "value": {
       "name": "bpm",
       "version": "1.2.9",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/bpm-1.2.9-ubuntu-jammy-1.260-20231019-102205-689657837.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/bpm-1.2.9-ubuntu-jammy-1.260-20231019-235744-570586601.tgz",
       "stemcell": {
         "os": "ubuntu-jammy",
         "version": "1.260"
@@ -36,7 +36,7 @@
     "value": {
       "name": "grafana",
       "version": "0.0.86",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/grafana-0.0.86-ubuntu-jammy-1.260-20231019-102249-605322517.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/grafana-0.0.86-ubuntu-jammy-1.260-20231019-235835-024372501.tgz",
       "stemcell": {
         "os": "ubuntu-jammy",
         "version": "1.260"
@@ -49,7 +49,7 @@
     "value": {
       "name": "influxdb",
       "version": "8.0.14",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/influxdb-8.0.14-ubuntu-jammy-1.260-20231019-102338-319829445.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/influxdb-8.0.14-ubuntu-jammy-1.260-20231019-235924-443644063.tgz",
       "stemcell": {
         "os": "ubuntu-jammy",
         "version": "1.260"
@@ -61,8 +61,8 @@
     "path": "/releases/name=credhub",
     "value": {
       "name": "credhub",
-      "version": "2.12.48",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/credhub-2.12.48-ubuntu-jammy-1.260-20231019-102408-173884297.tgz",
+      "version": "2.12.49",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/credhub-2.12.49-ubuntu-jammy-1.260-20231020-000153-047830031.tgz",
       "stemcell": {
         "os": "ubuntu-jammy",
         "version": "1.260"
@@ -75,7 +75,7 @@
     "value": {
       "name": "uaa",
       "version": "75.23.0",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/uaa-75.23.0-ubuntu-jammy-1.260-20231019-102512-577032346.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/uaa-75.23.0-ubuntu-jammy-1.260-20231020-000320-521115722.tgz",
       "stemcell": {
         "os": "ubuntu-jammy",
         "version": "1.260"
@@ -88,7 +88,7 @@
     "value": {
       "name": "bosh-dns",
       "version": "1.36.8",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/bosh-dns-1.36.8-ubuntu-jammy-1.260-20231019-102743-250541696.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/bosh-dns-1.36.8-ubuntu-jammy-1.260-20231020-000352-71300891.tgz",
       "stemcell": {
         "os": "ubuntu-jammy",
         "version": "1.260"
@@ -101,7 +101,7 @@
     "value": {
       "name": "telegraf",
       "version": "5",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/telegraf-5-ubuntu-jammy-1.260-20231019-102811-805389118.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/telegraf-5-ubuntu-jammy-1.260-20231020-000414-23626866.tgz",
       "stemcell": {
         "os": "ubuntu-jammy",
         "version": "1.260"
@@ -114,7 +114,7 @@
     "value": {
       "name": "telegraf-agent",
       "version": "2",
-      "url": "https://storage.googleapis.com/control-tower-compiled-releases/telegraf-agent-2-ubuntu-jammy-1.260-20231019-102832-063390956.tgz",
+      "url": "https://storage.googleapis.com/control-tower-compiled-releases/telegraf-agent-2-ubuntu-jammy-1.260-20231020-000429-654913748.tgz",
       "stemcell": {
         "os": "ubuntu-jammy",
         "version": "1.260"
